@@ -1,0 +1,1017 @@
+[CLASSIFICATION ROUNDS START!]
+[START CLASSIFICATION ROUNDS: A TOTAL OF 28 PEOPLE ARE COMPETING.]
+
+Sigrid Greisser
+    vs.   
+Nedi Juliet
+	Host: Sigrid Greisser, Nedi Juliet, What is the difference between 'while' and 'for' loops?
+	 - Sigrid Greisser beat Nedi Juliet in answering the classification question by 12 second(s).
+
+
+Dalenna Chaix
+    vs.   
+Georgeanne Buzzeo
+	Host: Dalenna Chaix, Georgeanne Buzzeo, Explain the concept of 'polymorphism' in object-oriented programming.
+	 - Georgeanne Buzzeo beat Dalenna Chaix in answering the classification question by 4 second(s).
+
+
+Andra Bantz
+    vs.   
+Cherey Heitman
+	Host: Andra Bantz, Cherey Heitman, What is meant by the term 'bug' in programming?
+	 - Cherey Heitman beat Andra Bantz in answering the classification question by 17 second(s).
+
+
+Ceil Worstel
+    vs.   
+Dael Lowther
+	Host: Ceil Worstel, Dael Lowther, What are the advantages of using object-oriented programming?
+	 - Dael Lowther beat Ceil Worstel in answering the classification question by 7 second(s).
+
+
+Eda Reins
+    vs.   
+Valaria Lutts
+	Host: Eda Reins, Valaria Lutts, Describe the difference between dynamic and static typing in programming languages.
+	 - Eda Reins beat Valaria Lutts in answering the classification question by 13 second(s).
+
+
+Whitney Ribbink
+    vs.   
+Lorain Kepner
+	Host: Whitney Ribbink, Lorain Kepner, Explain the concept of recursion in programming.
+	 - Lorain Kepner beat Whitney Ribbink in answering the classification question by 11 second(s).
+
+
+Devin Passarella
+    vs.   
+Alexia Rodeheaver
+	Host: Devin Passarella, Alexia Rodeheaver, What is the significance of the number 'π' (pi) in mathematics?
+	 - Devin Passarella beat Alexia Rodeheaver in answering the classification question by 22 second(s).
+
+
+Damaris Ramer
+    vs.   
+Wenonah Gartner
+	Host: Damaris Ramer, Wenonah Gartner, Describe the use of matrices in solving equations.
+	 - Damaris Ramer beat Wenonah Gartner in answering the classification question by 26 second(s).
+
+
+Florida Iacovelli
+    vs.   
+Joanna Mister
+	Host: Florida Iacovelli, Joanna Mister, What is the Pythagorean theorem?
+	 - Florida Iacovelli beat Joanna Mister in answering the classification question by 12 second(s).
+
+
+Brittani Lobe
+    vs.   
+Jayme Venne
+	Host: Brittani Lobe, Jayme Venne, What is the purpose of unit testing in programming?
+	 - Jayme Venne beat Brittani Lobe in answering the classification question by 13 second(s).
+
+
+Vicky Boman
+    vs.   
+Thomasa Beehler
+	Host: Vicky Boman, Thomasa Beehler, What are the different types of triangles based on angles and sides?
+	 - Thomasa Beehler beat Vicky Boman in answering the classification question by 20 second(s).
+
+
+Roz Schubert
+    vs.   
+Modesty Trussel
+	Host: Roz Schubert, Modesty Trussel, What is object-oriented programming (OOP) and its main principles?
+	 - Roz Schubert beat Modesty Trussel in answering the classification question by 7 second(s).
+
+
+Sindee Mandley
+    vs.   
+Hetti Ocean
+	Host: Sindee Mandley, Hetti Ocean, Describe the concept of probability in mathematics.
+	 - Sindee Mandley beat Hetti Ocean in answering the classification question by 14 second(s).
+
+
+Lee Schuckers
+    vs.   
+Anita Brasch
+	Host: Lee Schuckers, Anita Brasch, What are the properties of a quadratic equation?
+	 - Lee Schuckers beat Anita Brasch in answering the classification question by 14 second(s).
+
+
+
+[END CLASSIFICATION ROUNDS: 14 PEOPLE HAVE ENTERED THE COMPETITION.]
+
+[PEOPLE THAT WERE SELECTED:]
+Sigrid Greisser, ID 577873083, age 24
+Money: $0 COP - Took to answer: 45 seconds.
+
+Georgeanne Buzzeo, ID 5674170838, age 23
+Money: $0 COP - Took to answer: 32 seconds.
+
+Cherey Heitman, ID 1750984139, age 37
+Money: $0 COP - Took to answer: 34 seconds.
+
+Dael Lowther, ID 4480465059, age 28
+Money: $0 COP - Took to answer: 34 seconds.
+
+Eda Reins, ID 2455764959, age 42
+Money: $0 COP - Took to answer: 34 seconds.
+
+Lorain Kepner, ID 9190173494, age 52
+Money: $0 COP - Took to answer: 48 seconds.
+
+Devin Passarella, ID 5334585721, age 31
+Money: $0 COP - Took to answer: 31 seconds.
+
+Damaris Ramer, ID 6497915129, age 52
+Money: $0 COP - Took to answer: 30 seconds.
+
+Florida Iacovelli, ID 2221521972, age 38
+Money: $0 COP - Took to answer: 48 seconds.
+
+Jayme Venne, ID 6420911150, age 37
+Money: $0 COP - Took to answer: 31 seconds.
+
+Thomasa Beehler, ID 8264577645, age 31
+Money: $0 COP - Took to answer: 37 seconds.
+
+Roz Schubert, ID 9388906979, age 32
+Money: $0 COP - Took to answer: 38 seconds.
+
+Sindee Mandley, ID 2887880184, age 52
+Money: $0 COP - Took to answer: 45 seconds.
+
+Lee Schuckers, ID 6727125526, age 30
+Money: $0 COP - Took to answer: 30 seconds.
+
+[COMPETITION PAIRINGS:]
+	 - (Sigrid Greisser vs. Damaris Ramer)
+
+	 - (Georgeanne Buzzeo vs. Florida Iacovelli)
+
+	 - (Cherey Heitman vs. Jayme Venne)
+
+	 - (Dael Lowther vs. Thomasa Beehler)
+
+	 - (Eda Reins vs. Roz Schubert)
+
+	 - (Lorain Kepner vs. Sindee Mandley)
+
+	 - (Devin Passarella vs. Lee Schuckers)
+
+
+
+
+
+DAY #1 - Sigrid Greisser vs. Damaris Ramer.
+
+
+##-------------FIRST CONTESTANT'S TURN:------------##
+
+	# -- -- -- QUESTION #1 -- -- -- #
+
+	Host: Sigrid Greisser, What is the tallest tree in the world?
+	Host: It seems like our contestant has decided to use a wildcard.
+	Sigrid Greisser: I want to play the 50/50 wildcard.
+	Host: Alright, the 50/50 wildcard.
+	Host: Two options have been removed.
+	 - Sigrid Greisser answers correctly.
+	Host: That is correct, well done Sigrid Greisser. You gain $100,000 COP.
+
+	# -- -- -- QUESTION #2 -- -- -- #
+
+	Host: Sigrid Greisser, Who discovered the theory of evolution?
+	 - Sigrid Greisser answers correctly.
+	Host: That is correct, well done Sigrid Greisser. You gain $200,000 COP.
+
+	# -- -- -- QUESTION #3 -- -- -- #
+
+	Host: Sigrid Greisser, What is the capital city of Russia?
+	 - Sigrid Greisser answers correctly.
+	Host: That is correct, well done Sigrid Greisser. You gain $300,000 COP.
+
+	# -- -- -- QUESTION #4 -- -- -- #
+
+	Host: Sigrid Greisser, What is the largest type of big cat in the world?
+	Host: It seems like our contestant has decided to use a wildcard.
+	Sigrid Greisser: I want to play the Public Opinion wildcard.
+	Host: Alright, the Public Opinion wildcard.
+	Host: The public is weighing in... It looks like they want answer #3! Will you choose that one?
+	Sigrid Greisser: Hmmm... I think I will not.
+	Host: Alright then! Choose your answer when you're ready.
+	 - Sigrid Greisser answers correctly.
+	Host: That is correct, well done Sigrid Greisser. You gain $500,000 COP.
+
+	# -- -- -- QUESTION #5 -- -- -- #
+
+	Host: Sigrid Greisser, What is the capital city of Australia?
+	Host: It seems like our contestant has decided to use a wildcard.
+	Sigrid Greisser: I want to play the Lifeline wildcard.
+	Host: Alright, the Lifeline wildcard.
+	Host: You can now call a friend or family member to help you.
+	 - Sigrid Greisser is calling a family member. It seems they wanted the answer #1.
+	Host: Alright! Will you choose that option?
+	Sigrid Greisser: I think I will.
+	Host: Alright then! Choose your answer when you're ready.
+	 - Sigrid Greisser answers correctly.
+	Host: That is correct, well done Sigrid Greisser. You gain $1,000,000 COP.
+	Host: We've now passed a safeguard, you can now lose any question, and you'll still win $1,000,000 COP.
+
+	# -- -- -- QUESTION #6 -- -- -- #
+
+	Host: Sigrid Greisser, Which planet is known as the 'Red Planet'?
+	 - Sigrid Greisser answers correctly.
+	Host: That is correct, well done Sigrid Greisser. You gain $2,000,000 COP.
+
+	# -- -- -- QUESTION #7 -- -- -- #
+
+	Host: Sigrid Greisser, Who painted the Mona Lisa?
+	 - Sigrid Greisser answers incorrectly.
+	Host: I'm afraid that is incorrect. Unfortunately, you lose all the money you've gained up to this point except for your safeguards.
+	Host: And with that, Sigrid Greisser leaves with a total of $1,000,000 COP. Thanks for participating, and let's move on to the next contestant.
+
+
+##-------------SECOND CONTESTANT'S TURN:------------##
+
+	# -- -- -- QUESTION #1 -- -- -- #
+
+	Host: Sigrid Greisser, Who composed 'The Four Seasons'?
+	 - Sigrid Greisser answers correctly.
+	Host: That is correct, well done Sigrid Greisser. You gain $100,000 COP.
+
+	# -- -- -- QUESTION #2 -- -- -- #
+
+	Host: Sigrid Greisser, What is the most widely spoken language in the world?
+	 - Sigrid Greisser answers correctly.
+	Host: That is correct, well done Sigrid Greisser. You gain $200,000 COP.
+
+	# -- -- -- QUESTION #3 -- -- -- #
+
+	Host: Sigrid Greisser, Which planet is closest to the Sun?
+	 - Sigrid Greisser answers incorrectly.
+	Host: I'm afraid that is incorrect. Unfortunately, you lose all the money you've gained up to this point except for your safeguards.
+	Host: And with that, Sigrid Greisser leaves with a total of $1,000,000 COP. Thanks for participating, and thank you for watching the show. See ya next time!
+[MONEY GIVEN OUT ON DAY 1]
+	Sigrid Greisser received $1,000,000 COP.
+	Damaris Ramer received $1,000,000 COP.
+	In total, the program gave $2,000,000 COP.
+
+
+
+
+DAY #2 - Georgeanne Buzzeo vs. Florida Iacovelli.
+
+
+##-------------FIRST CONTESTANT'S TURN:------------##
+
+	# -- -- -- QUESTION #1 -- -- -- #
+
+	Host: Georgeanne Buzzeo, Who is known as the 'Father of Computers'?
+	Host: It seems like our contestant has decided to use a wildcard.
+	Georgeanne Buzzeo: I want to play the Lifeline wildcard.
+	Host: Alright, the Lifeline wildcard.
+	Host: You can now call a friend or family member to help you.
+	 - Georgeanne Buzzeo is calling a family member. It seems they wanted the answer #1.
+	Host: Alright! Will you choose that option?
+	Georgeanne Buzzeo: Hmmm... I think I will not.
+	Host: Alright then! Choose your answer when you're ready.
+	 - Georgeanne Buzzeo answers correctly.
+	Host: That is correct, well done Georgeanne Buzzeo. You gain $100,000 COP.
+
+	# -- -- -- QUESTION #2 -- -- -- #
+
+	Host: Georgeanne Buzzeo, What is the capital city of Canada?
+	Host: It seems like our contestant has decided to use a wildcard.
+	Georgeanne Buzzeo: I want to play the 50/50 wildcard.
+	Host: Alright, the 50/50 wildcard.
+	Host: Two options have been removed.
+	 - Georgeanne Buzzeo answers correctly.
+	Host: That is correct, well done Georgeanne Buzzeo. You gain $200,000 COP.
+
+	# -- -- -- QUESTION #3 -- -- -- #
+
+	Host: Georgeanne Buzzeo, Which famous scientist developed the theory of relativity?
+	Host: It seems like our contestant has decided to use a wildcard.
+	Georgeanne Buzzeo: I want to play the Public Opinion wildcard.
+	Host: Alright, the Public Opinion wildcard.
+	Host: The public is weighing in... It looks like they want answer #4! Will you choose that one?
+	Georgeanne Buzzeo: Hmmm... I think I will not.
+	Host: Alright then! Choose your answer when you're ready.
+	 - Georgeanne Buzzeo answers correctly.
+	Host: That is correct, well done Georgeanne Buzzeo. You gain $300,000 COP.
+
+	# -- -- -- QUESTION #4 -- -- -- #
+
+	Host: Georgeanne Buzzeo, What is the tallest mountain in the world?
+	 - Georgeanne Buzzeo answers correctly.
+	Host: That is correct, well done Georgeanne Buzzeo. You gain $500,000 COP.
+
+	# -- -- -- QUESTION #5 -- -- -- #
+
+	Host: Georgeanne Buzzeo, Who painted the famous artwork 'Starry Night'?
+	 - Georgeanne Buzzeo answers correctly.
+	Host: That is correct, well done Georgeanne Buzzeo. You gain $1,000,000 COP.
+	Host: We've now passed a safeguard, you can now lose any question, and you'll still win $1,000,000 COP.
+
+	# -- -- -- QUESTION #6 -- -- -- #
+
+	Host: Georgeanne Buzzeo, What is the primary language spoken in Brazil?
+	 - Georgeanne Buzzeo answers incorrectly.
+	Host: I'm afraid that is incorrect. Unfortunately, you lose all the money you've gained up to this point except for your safeguards.
+	Host: And with that, Georgeanne Buzzeo leaves with a total of $1,000,000 COP. Thanks for participating, and let's move on to the next contestant.
+
+
+##-------------SECOND CONTESTANT'S TURN:------------##
+
+	# -- -- -- QUESTION #1 -- -- -- #
+
+	Host: Georgeanne Buzzeo, Who developed the game 'Undertale'?
+	 - Georgeanne Buzzeo answers correctly.
+	Host: That is correct, well done Georgeanne Buzzeo. You gain $100,000 COP.
+
+	# -- -- -- QUESTION #2 -- -- -- #
+
+	Host: Georgeanne Buzzeo, What is the largest desert in the world?
+	 - Georgeanne Buzzeo answers correctly.
+	Host: That is correct, well done Georgeanne Buzzeo. You gain $200,000 COP.
+
+	# -- -- -- QUESTION #3 -- -- -- #
+
+	Host: Georgeanne Buzzeo, Who is known as the 'Father of Computers'?
+	 - Georgeanne Buzzeo answers correctly.
+	Host: That is correct, well done Georgeanne Buzzeo. You gain $300,000 COP.
+
+	# -- -- -- QUESTION #4 -- -- -- #
+
+	Host: Georgeanne Buzzeo, What is the capital city of Canada?
+	 - Georgeanne Buzzeo answers correctly.
+	Host: That is correct, well done Georgeanne Buzzeo. You gain $500,000 COP.
+
+	# -- -- -- QUESTION #5 -- -- -- #
+
+	Host: Georgeanne Buzzeo, Which famous scientist developed the theory of relativity?
+	 - Georgeanne Buzzeo answers correctly.
+	Host: That is correct, well done Georgeanne Buzzeo. You gain $1,000,000 COP.
+	Host: We've now passed a safeguard, you can now lose any question, and you'll still win $1,000,000 COP.
+
+	# -- -- -- QUESTION #6 -- -- -- #
+
+	Host: Georgeanne Buzzeo, What is the tallest mountain in the world?
+	 - Georgeanne Buzzeo answers correctly.
+	Host: That is correct, well done Georgeanne Buzzeo. You gain $2,000,000 COP.
+
+	# -- -- -- QUESTION #7 -- -- -- #
+
+	Host: Georgeanne Buzzeo, Who painted the famous artwork 'Starry Night'?
+	 - Georgeanne Buzzeo answers correctly.
+	Host: That is correct, well done Georgeanne Buzzeo. You gain $3,000,000 COP.
+
+	# -- -- -- QUESTION #8 -- -- -- #
+
+	Host: Georgeanne Buzzeo, What is the primary language spoken in Brazil?
+	 - Georgeanne Buzzeo answers correctly.
+	Host: That is correct, well done Georgeanne Buzzeo. You gain $5,000,000 COP.
+
+	# -- -- -- QUESTION #9 -- -- -- #
+
+	Host: Georgeanne Buzzeo, Which country is known as the 'Land of the Rising Sun'?
+	 - Georgeanne Buzzeo answers correctly.
+	Host: That is correct, well done Georgeanne Buzzeo. You gain $7,000,000 COP.
+
+	# -- -- -- QUESTION #10 -- -- -- #
+
+	Host: Georgeanne Buzzeo, Who wrote the famous novel '1984'?
+	 - Georgeanne Buzzeo answers correctly.
+	Host: That is correct, well done Georgeanne Buzzeo. You gain $10,000,000 COP.
+	Host: We've now passed a safeguard, you can now lose any question, and you'll still win $10,000,000 COP.
+
+	# -- -- -- QUESTION #11 -- -- -- #
+
+	Host: Georgeanne Buzzeo, What is the chemical symbol for iron?
+	 - Georgeanne Buzzeo answers correctly.
+	Host: That is correct, well done Georgeanne Buzzeo. You gain $12,000,000 COP.
+
+	# -- -- -- QUESTION #12 -- -- -- #
+
+	Host: Georgeanne Buzzeo, What is the largest continent in the world?
+	 - Georgeanne Buzzeo answers incorrectly.
+	Host: I'm afraid that is incorrect. Unfortunately, you lose all the money you've gained up to this point except for your safeguards.
+	Host: And with that, Georgeanne Buzzeo leaves with a total of $10,000,000 COP. Thanks for participating, and thank you for watching the show. See ya next time!
+[MONEY GIVEN OUT ON DAY 2]
+	Georgeanne Buzzeo received $1,000,000 COP.
+	Florida Iacovelli received $10,000,000 COP.
+	In total, the program gave $11,000,000 COP.
+
+
+
+
+DAY #3 - Cherey Heitman vs. Jayme Venne.
+
+
+##-------------FIRST CONTESTANT'S TURN:------------##
+
+	# -- -- -- QUESTION #1 -- -- -- #
+
+	Host: Cherey Heitman, What is the most widely spoken language in the world?
+	Host: It seems like our contestant has decided to use a wildcard.
+	Cherey Heitman: I want to play the Lifeline wildcard.
+	Host: Alright, the Lifeline wildcard.
+	Host: You can now call a friend or family member to help you.
+	 - Cherey Heitman is calling a family member. It seems they wanted the answer #2.
+	Host: Alright! Will you choose that option?
+	Cherey Heitman: Hmmm... I think I will not.
+	Host: Alright then! Choose your answer when you're ready.
+	 - Cherey Heitman answers correctly.
+	Host: That is correct, well done Cherey Heitman. You gain $100,000 COP.
+
+	# -- -- -- QUESTION #2 -- -- -- #
+
+	Host: Cherey Heitman, Which planet is closest to the Sun?
+	 - Cherey Heitman answers correctly.
+	Host: That is correct, well done Cherey Heitman. You gain $200,000 COP.
+
+	# -- -- -- QUESTION #3 -- -- -- #
+
+	Host: Cherey Heitman, Who painted 'The Scream'?
+	Host: It seems like our contestant has decided to use a wildcard.
+	Cherey Heitman: I want to play the Public Opinion wildcard.
+	Host: Alright, the Public Opinion wildcard.
+	Host: The public is weighing in... It looks like they want answer #2! Will you choose that one?
+	Cherey Heitman: I think I will.
+	Host: Alright then! Choose your answer when you're ready.
+	 - Cherey Heitman answers correctly.
+	Host: That is correct, well done Cherey Heitman. You gain $300,000 COP.
+
+	# -- -- -- QUESTION #4 -- -- -- #
+
+	Host: Cherey Heitman, What is the currency of France?
+	Host: It seems like our contestant has decided to use a wildcard.
+	Cherey Heitman: I want to play the 50/50 wildcard.
+	Host: Alright, the 50/50 wildcard.
+	Host: Two options have been removed.
+	 - Cherey Heitman answers correctly.
+	Host: That is correct, well done Cherey Heitman. You gain $500,000 COP.
+
+	# -- -- -- QUESTION #5 -- -- -- #
+
+	Host: Cherey Heitman, Who is known as the 'Bard of Avon'?
+	 - Cherey Heitman answers correctly.
+	Host: That is correct, well done Cherey Heitman. You gain $1,000,000 COP.
+	Host: We've now passed a safeguard, you can now lose any question, and you'll still win $1,000,000 COP.
+
+	# -- -- -- QUESTION #6 -- -- -- #
+
+	Host: Cherey Heitman, What is the largest moon in the solar system?
+	 - Cherey Heitman answers correctly.
+	Host: That is correct, well done Cherey Heitman. You gain $2,000,000 COP.
+
+	# -- -- -- QUESTION #7 -- -- -- #
+
+	Host: Cherey Heitman, What is the largest organ in the human body?
+	 - Cherey Heitman answers correctly.
+	Host: That is correct, well done Cherey Heitman. You gain $3,000,000 COP.
+
+	# -- -- -- QUESTION #8 -- -- -- #
+
+	Host: Cherey Heitman, Who was the first female Prime Minister of the United Kingdom?
+	 - Cherey Heitman answers correctly.
+	Host: That is correct, well done Cherey Heitman. You gain $5,000,000 COP.
+
+	# -- -- -- QUESTION #9 -- -- -- #
+
+	Host: Cherey Heitman, What is the primary ingredient in sushi?
+	 - Cherey Heitman answers correctly.
+	Host: That is correct, well done Cherey Heitman. You gain $7,000,000 COP.
+
+	# -- -- -- QUESTION #10 -- -- -- #
+
+	Host: Cherey Heitman, Which famous artist is known for his cut-off ear?
+	 - Cherey Heitman answers correctly.
+	Host: That is correct, well done Cherey Heitman. You gain $10,000,000 COP.
+	Host: We've now passed a safeguard, you can now lose any question, and you'll still win $10,000,000 COP.
+
+	# -- -- -- QUESTION #11 -- -- -- #
+
+	Host: Cherey Heitman, What is the national animal of Australia?
+	 - Cherey Heitman answers correctly.
+	Host: That is correct, well done Cherey Heitman. You gain $12,000,000 COP.
+
+	# -- -- -- QUESTION #12 -- -- -- #
+
+	Host: Cherey Heitman, Who wrote 'The Great Gatsby'?
+	 - Cherey Heitman answers correctly.
+	Host: That is correct, well done Cherey Heitman. You gain $20,000,000 COP.
+
+	# -- -- -- QUESTION #13 -- -- -- #
+
+	Host: Cherey Heitman, What is the world's largest coral reef system?
+	 - Cherey Heitman answers incorrectly.
+	Host: I'm afraid that is incorrect. Unfortunately, you lose all the money you've gained up to this point except for your safeguards.
+	Host: And with that, Cherey Heitman leaves with a total of $10,000,000 COP. Thanks for participating, and let's move on to the next contestant.
+
+
+##-------------SECOND CONTESTANT'S TURN:------------##
+
+	# -- -- -- QUESTION #1 -- -- -- #
+
+	Host: Cherey Heitman, Who painted 'The Persistence of Memory'?
+	 - Cherey Heitman answers correctly.
+	Host: That is correct, well done Cherey Heitman. You gain $100,000 COP.
+
+	# -- -- -- QUESTION #2 -- -- -- #
+
+	Host: Cherey Heitman, What is the national flower of Japan?
+	 - Cherey Heitman answers correctly.
+	Host: That is correct, well done Cherey Heitman. You gain $200,000 COP.
+
+	# -- -- -- QUESTION #3 -- -- -- #
+
+	Host: Cherey Heitman, Who wrote 'The Catcher in the Rye'?
+	 - Cherey Heitman answers correctly.
+	Host: That is correct, well done Cherey Heitman. You gain $300,000 COP.
+
+	# -- -- -- QUESTION #4 -- -- -- #
+
+	Host: Cherey Heitman, What is the largest bird in the world?
+	 - Cherey Heitman answers correctly.
+	Host: That is correct, well done Cherey Heitman. You gain $500,000 COP.
+
+	# -- -- -- QUESTION #5 -- -- -- #
+
+	Host: Cherey Heitman, Which city is known as the 'Big Apple'?
+	 - Cherey Heitman answers correctly.
+	Host: That is correct, well done Cherey Heitman. You gain $1,000,000 COP.
+	Host: We've now passed a safeguard, you can now lose any question, and you'll still win $1,000,000 COP.
+
+	# -- -- -- QUESTION #6 -- -- -- #
+
+	Host: Cherey Heitman, Who discovered penicillin?
+	 - Cherey Heitman answers correctly.
+	Host: That is correct, well done Cherey Heitman. You gain $2,000,000 COP.
+
+	# -- -- -- QUESTION #7 -- -- -- #
+
+	Host: Cherey Heitman, What is the process of a caterpillar turning into a butterfly called?
+	 - Cherey Heitman answers incorrectly.
+	Host: I'm afraid that is incorrect. Unfortunately, you lose all the money you've gained up to this point except for your safeguards.
+	Host: And with that, Cherey Heitman leaves with a total of $1,000,000 COP. Thanks for participating, and thank you for watching the show. See ya next time!
+[MONEY GIVEN OUT ON DAY 3]
+	Cherey Heitman received $10,000,000 COP.
+	Jayme Venne received $1,000,000 COP.
+	In total, the program gave $11,000,000 COP.
+
+
+
+
+DAY #4 - Dael Lowther vs. Thomasa Beehler.
+
+
+##-------------FIRST CONTESTANT'S TURN:------------##
+
+	# -- -- -- QUESTION #1 -- -- -- #
+
+	Host: Dael Lowther, What is the primary language spoken in Brazil?
+	Host: It seems like our contestant has decided to use a wildcard.
+	Dael Lowther: I want to play the 50/50 wildcard.
+	Host: Alright, the 50/50 wildcard.
+	Host: Two options have been removed.
+	 - Dael Lowther answers correctly.
+	Host: That is correct, well done Dael Lowther. You gain $100,000 COP.
+
+	# -- -- -- QUESTION #2 -- -- -- #
+
+	Host: Dael Lowther, Which country is known as the 'Land of the Rising Sun'?
+	 - Dael Lowther answers correctly.
+	Host: That is correct, well done Dael Lowther. You gain $200,000 COP.
+
+	# -- -- -- QUESTION #3 -- -- -- #
+
+	Host: Dael Lowther, Who wrote the famous novel '1984'?
+	 - Dael Lowther answers correctly.
+	Host: That is correct, well done Dael Lowther. You gain $300,000 COP.
+
+	# -- -- -- QUESTION #4 -- -- -- #
+
+	Host: Dael Lowther, What is the chemical symbol for iron?
+	 - Dael Lowther answers correctly.
+	Host: That is correct, well done Dael Lowther. You gain $500,000 COP.
+
+	# -- -- -- QUESTION #5 -- -- -- #
+
+	Host: Dael Lowther, What is the largest continent in the world?
+	 - Dael Lowther answers incorrectly.
+	Host: I'm afraid that is incorrect. Unfortunately, you lose all the money you've gained up to this point.
+	Host: And with that, Dael Lowther leaves with a total of $0 COP. Thanks for participating, and let's move on to the next contestant.
+
+
+##-------------SECOND CONTESTANT'S TURN:------------##
+
+	# -- -- -- QUESTION #1 -- -- -- #
+
+	Host: Dael Lowther, Who painted the famous artwork 'Starry Night'?
+	Host: It seems like our contestant has decided to use a wildcard.
+	Dael Lowther: I want to play the Lifeline wildcard.
+	Host: Alright, the Lifeline wildcard.
+	Host: You can now call a friend or family member to help you.
+	 - Dael Lowther is calling a family member. It seems they wanted the answer #1.
+	Host: Alright! Will you choose that option?
+	Dael Lowther: Hmmm... I think I will not.
+	Host: Alright then! Choose your answer when you're ready.
+	 - Dael Lowther answers correctly.
+	Host: That is correct, well done Dael Lowther. You gain $100,000 COP.
+
+	# -- -- -- QUESTION #2 -- -- -- #
+
+	Host: Dael Lowther, What is the primary language spoken in Brazil?
+	Host: It seems like our contestant has decided to use a wildcard.
+	Dael Lowther: I want to play the Public Opinion wildcard.
+	Host: Alright, the Public Opinion wildcard.
+	Host: The public is weighing in... It looks like they want answer #3! Will you choose that one?
+	Dael Lowther: Hmmm... I think I will not.
+	Host: Alright then! Choose your answer when you're ready.
+	 - Dael Lowther answers correctly.
+	Host: That is correct, well done Dael Lowther. You gain $200,000 COP.
+
+	# -- -- -- QUESTION #3 -- -- -- #
+
+	Host: Dael Lowther, Which country is known as the 'Land of the Rising Sun'?
+	 - Dael Lowther answers correctly.
+	Host: That is correct, well done Dael Lowther. You gain $300,000 COP.
+
+	# -- -- -- QUESTION #4 -- -- -- #
+
+	Host: Dael Lowther, Who wrote the famous novel '1984'?
+	 - Dael Lowther answers incorrectly.
+	Host: I'm afraid that is incorrect. Unfortunately, you lose all the money you've gained up to this point.
+	Host: And with that, Dael Lowther leaves with a total of $0 COP. Thanks for participating, and thank you for watching the show. See ya next time!
+[MONEY GIVEN OUT ON DAY 4]
+	Dael Lowther received $0 COP.
+	Thomasa Beehler received $0 COP.
+	In total, the program gave $0 COP.
+
+
+
+
+DAY #5 - Eda Reins vs. Roz Schubert.
+
+
+##-------------FIRST CONTESTANT'S TURN:------------##
+
+	# -- -- -- QUESTION #1 -- -- -- #
+
+	Host: Eda Reins, Who wrote 'The Great Gatsby'?
+	Host: It seems like our contestant has decided to use a wildcard.
+	Eda Reins: I want to play the Public Opinion wildcard.
+	Host: Alright, the Public Opinion wildcard.
+	Host: The public is weighing in... It looks like they want answer #1! Will you choose that one?
+	Eda Reins: I think I will.
+	Host: Alright then! Choose your answer when you're ready.
+	 - Eda Reins answers correctly.
+	Host: That is correct, well done Eda Reins. You gain $100,000 COP.
+
+	# -- -- -- QUESTION #2 -- -- -- #
+
+	Host: Eda Reins, What is the world's largest coral reef system?
+	 - Eda Reins answers correctly.
+	Host: That is correct, well done Eda Reins. You gain $200,000 COP.
+
+	# -- -- -- QUESTION #3 -- -- -- #
+
+	Host: Eda Reins, What is the tallest tree in the world?
+	 - Eda Reins answers correctly.
+	Host: That is correct, well done Eda Reins. You gain $300,000 COP.
+
+	# -- -- -- QUESTION #4 -- -- -- #
+
+	Host: Eda Reins, Who discovered the theory of evolution?
+	 - Eda Reins answers correctly.
+	Host: That is correct, well done Eda Reins. You gain $500,000 COP.
+
+	# -- -- -- QUESTION #5 -- -- -- #
+
+	Host: Eda Reins, What is the capital city of Russia?
+	Host: It seems like our contestant has decided to use a wildcard.
+	Eda Reins: I want to play the 50/50 wildcard.
+	Host: Alright, the 50/50 wildcard.
+	Host: Two options have been removed.
+	 - Eda Reins answers correctly.
+	Host: That is correct, well done Eda Reins. You gain $1,000,000 COP.
+	Host: We've now passed a safeguard, you can now lose any question, and you'll still win $1,000,000 COP.
+
+	# -- -- -- QUESTION #6 -- -- -- #
+
+	Host: Eda Reins, What is the largest type of big cat in the world?
+	Host: It seems like our contestant has decided to use a wildcard.
+	Eda Reins: I want to play the Lifeline wildcard.
+	Host: Alright, the Lifeline wildcard.
+	Host: You can now call a friend or family member to help you.
+	 - Eda Reins is calling a friend. It seems they wanted the answer #2.
+	Host: Alright! Will you choose that option?
+	Eda Reins: I think I will.
+	Host: Alright then! Choose your answer when you're ready.
+	 - Eda Reins answers correctly.
+	Host: That is correct, well done Eda Reins. You gain $2,000,000 COP.
+
+	# -- -- -- QUESTION #7 -- -- -- #
+
+	Host: Eda Reins, What is the capital city of Australia?
+	 - Eda Reins answers correctly.
+	Host: That is correct, well done Eda Reins. You gain $3,000,000 COP.
+
+	# -- -- -- QUESTION #8 -- -- -- #
+
+	Host: Eda Reins, Which planet is known as the 'Red Planet'?
+	 - Eda Reins answers correctly.
+	Host: That is correct, well done Eda Reins. You gain $5,000,000 COP.
+	Host: Huh? It appears our contestant wants to opt out! This means you'll go home with $5,000,000 COP. Are you sure you want to opt out?
+	Eda Reins: Yes.
+	Host: Alright then! If that's the case, then Eda Reins is walking away with the money they've earned so far! Congratulations!
+	Host: And with that, Eda Reins leaves with a total of $5,000,000 COP. Thanks for participating, and let's move on to the next contestant.
+
+
+##-------------SECOND CONTESTANT'S TURN:------------##
+
+	# -- -- -- QUESTION #1 -- -- -- #
+
+	Host: Eda Reins, Who wrote 'The Catcher in the Rye'?
+	 - Eda Reins answers correctly.
+	Host: That is correct, well done Eda Reins. You gain $100,000 COP.
+
+	# -- -- -- QUESTION #2 -- -- -- #
+
+	Host: Eda Reins, What is the largest bird in the world?
+	 - Eda Reins answers correctly.
+	Host: That is correct, well done Eda Reins. You gain $200,000 COP.
+
+	# -- -- -- QUESTION #3 -- -- -- #
+
+	Host: Eda Reins, Which city is known as the 'Big Apple'?
+	 - Eda Reins answers correctly.
+	Host: That is correct, well done Eda Reins. You gain $300,000 COP.
+
+	# -- -- -- QUESTION #4 -- -- -- #
+
+	Host: Eda Reins, Who discovered penicillin?
+	 - Eda Reins answers incorrectly.
+	Host: I'm afraid that is incorrect. Unfortunately, you lose all the money you've gained up to this point except for your safeguards.
+	Host: And with that, Eda Reins leaves with a total of $1,000,000 COP. Thanks for participating, and thank you for watching the show. See ya next time!
+[MONEY GIVEN OUT ON DAY 5]
+	Eda Reins received $5,000,000 COP.
+	Roz Schubert received $1,000,000 COP.
+	In total, the program gave $6,000,000 COP.
+
+
+
+
+DAY #6 - Lorain Kepner vs. Sindee Mandley.
+
+
+##-------------FIRST CONTESTANT'S TURN:------------##
+
+	# -- -- -- QUESTION #1 -- -- -- #
+
+	Host: Lorain Kepner, Who composed 'The Four Seasons'?
+	 - Lorain Kepner answers correctly.
+	Host: That is correct, well done Lorain Kepner. You gain $100,000 COP.
+
+	# -- -- -- QUESTION #2 -- -- -- #
+
+	Host: Lorain Kepner, What is the most widely spoken language in the world?
+	 - Lorain Kepner answers correctly.
+	Host: That is correct, well done Lorain Kepner. You gain $200,000 COP.
+
+	# -- -- -- QUESTION #3 -- -- -- #
+
+	Host: Lorain Kepner, Which planet is closest to the Sun?
+	Host: It seems like our contestant has decided to use a wildcard.
+	Lorain Kepner: I want to play the Public Opinion wildcard.
+	Host: Alright, the Public Opinion wildcard.
+	Host: The public is weighing in... It looks like they want answer #1! Will you choose that one?
+	Lorain Kepner: I think I will.
+	Host: Alright then! Choose your answer when you're ready.
+	 - Lorain Kepner answers correctly.
+	Host: That is correct, well done Lorain Kepner. You gain $300,000 COP.
+
+	# -- -- -- QUESTION #4 -- -- -- #
+
+	Host: Lorain Kepner, Who painted 'The Scream'?
+	 - Lorain Kepner answers correctly.
+	Host: That is correct, well done Lorain Kepner. You gain $500,000 COP.
+
+	# -- -- -- QUESTION #5 -- -- -- #
+
+	Host: Lorain Kepner, What is the currency of France?
+	Host: It seems like our contestant has decided to use a wildcard.
+	Lorain Kepner: I want to play the Lifeline wildcard.
+	Host: Alright, the Lifeline wildcard.
+	Host: You can now call a friend or family member to help you.
+	 - Lorain Kepner is calling a friend. It seems they wanted the answer #4.
+	Host: Alright! Will you choose that option?
+	Lorain Kepner: I think I will.
+	Host: Alright then! Choose your answer when you're ready.
+	 - Lorain Kepner answers correctly.
+	Host: That is correct, well done Lorain Kepner. You gain $1,000,000 COP.
+	Host: We've now passed a safeguard, you can now lose any question, and you'll still win $1,000,000 COP.
+
+	# -- -- -- QUESTION #6 -- -- -- #
+
+	Host: Lorain Kepner, Who is known as the 'Bard of Avon'?
+	 - Lorain Kepner answers correctly.
+	Host: That is correct, well done Lorain Kepner. You gain $2,000,000 COP.
+
+	# -- -- -- QUESTION #7 -- -- -- #
+
+	Host: Lorain Kepner, What is the largest moon in the solar system?
+	 - Lorain Kepner answers incorrectly.
+	Host: I'm afraid that is incorrect. Unfortunately, you lose all the money you've gained up to this point except for your safeguards.
+	Host: And with that, Lorain Kepner leaves with a total of $1,000,000 COP. Thanks for participating, and let's move on to the next contestant.
+
+
+##-------------SECOND CONTESTANT'S TURN:------------##
+
+	# -- -- -- QUESTION #1 -- -- -- #
+
+	Host: Lorain Kepner, What is the world's second-largest country by land area?
+	Host: It seems like our contestant has decided to use a wildcard.
+	Lorain Kepner: I want to play the 50/50 wildcard.
+	Host: Alright, the 50/50 wildcard.
+	Host: Two options have been removed.
+	 - Lorain Kepner answers correctly.
+	Host: That is correct, well done Lorain Kepner. You gain $100,000 COP.
+
+	# -- -- -- QUESTION #2 -- -- -- #
+
+	Host: Lorain Kepner, What is the smallest bone in the human body?
+	 - Lorain Kepner answers correctly.
+	Host: That is correct, well done Lorain Kepner. You gain $200,000 COP.
+
+	# -- -- -- QUESTION #3 -- -- -- #
+
+	Host: Lorain Kepner, Who painted 'The Persistence of Memory'?
+	 - Lorain Kepner answers correctly.
+	Host: That is correct, well done Lorain Kepner. You gain $300,000 COP.
+
+	# -- -- -- QUESTION #4 -- -- -- #
+
+	Host: Lorain Kepner, What is the national flower of Japan?
+	 - Lorain Kepner answers correctly.
+	Host: That is correct, well done Lorain Kepner. You gain $500,000 COP.
+
+	# -- -- -- QUESTION #5 -- -- -- #
+
+	Host: Lorain Kepner, Who wrote 'The Catcher in the Rye'?
+	 - Lorain Kepner answers correctly.
+	Host: That is correct, well done Lorain Kepner. You gain $1,000,000 COP.
+	Host: We've now passed a safeguard, you can now lose any question, and you'll still win $1,000,000 COP.
+
+	# -- -- -- QUESTION #6 -- -- -- #
+
+	Host: Lorain Kepner, What is the largest bird in the world?
+	 - Lorain Kepner answers correctly.
+	Host: That is correct, well done Lorain Kepner. You gain $2,000,000 COP.
+
+	# -- -- -- QUESTION #7 -- -- -- #
+
+	Host: Lorain Kepner, Which city is known as the 'Big Apple'?
+	 - Lorain Kepner answers incorrectly.
+	Host: I'm afraid that is incorrect. Unfortunately, you lose all the money you've gained up to this point except for your safeguards.
+	Host: And with that, Lorain Kepner leaves with a total of $1,000,000 COP. Thanks for participating, and thank you for watching the show. See ya next time!
+[MONEY GIVEN OUT ON DAY 6]
+	Lorain Kepner received $1,000,000 COP.
+	Sindee Mandley received $1,000,000 COP.
+	In total, the program gave $2,000,000 COP.
+
+
+
+
+DAY #7 - Devin Passarella vs. Lee Schuckers.
+
+
+##-------------FIRST CONTESTANT'S TURN:------------##
+
+	# -- -- -- QUESTION #1 -- -- -- #
+
+	Host: Devin Passarella, Who painted 'The Persistence of Memory'?
+	Host: It seems like our contestant has decided to use a wildcard.
+	Devin Passarella: I want to play the Lifeline wildcard.
+	Host: Alright, the Lifeline wildcard.
+	Host: You can now call a friend or family member to help you.
+	 - Devin Passarella is calling a family member. It seems they wanted the answer #1.
+	Host: Alright! Will you choose that option?
+	Devin Passarella: I think I will.
+	Host: Alright then! Choose your answer when you're ready.
+	 - Devin Passarella answers correctly.
+	Host: That is correct, well done Devin Passarella. You gain $100,000 COP.
+
+	# -- -- -- QUESTION #2 -- -- -- #
+
+	Host: Devin Passarella, What is the national flower of Japan?
+	Host: It seems like our contestant has decided to use a wildcard.
+	Devin Passarella: I want to play the 50/50 wildcard.
+	Host: Alright, the 50/50 wildcard.
+	Host: Two options have been removed.
+	 - Devin Passarella answers correctly.
+	Host: That is correct, well done Devin Passarella. You gain $200,000 COP.
+
+	# -- -- -- QUESTION #3 -- -- -- #
+
+	Host: Devin Passarella, Who wrote 'The Catcher in the Rye'?
+	 - Devin Passarella answers correctly.
+	Host: That is correct, well done Devin Passarella. You gain $300,000 COP.
+
+	# -- -- -- QUESTION #4 -- -- -- #
+
+	Host: Devin Passarella, What is the largest bird in the world?
+	Host: It seems like our contestant has decided to use a wildcard.
+	Devin Passarella: I want to play the Public Opinion wildcard.
+	Host: Alright, the Public Opinion wildcard.
+	Host: The public is weighing in... It looks like they want answer #2! Will you choose that one?
+	Devin Passarella: I think I will.
+	Host: Alright then! Choose your answer when you're ready.
+	 - Devin Passarella answers incorrectly.
+	Host: I'm afraid that is incorrect. Unfortunately, you lose all the money you've gained up to this point.
+	Host: And with that, Devin Passarella leaves with a total of $0 COP. Thanks for participating, and let's move on to the next contestant.
+
+
+##-------------SECOND CONTESTANT'S TURN:------------##
+
+	# -- -- -- QUESTION #1 -- -- -- #
+
+	Host: Devin Passarella, Which planet is known as the 'Red Planet'?
+	 - Devin Passarella answers correctly.
+	Host: That is correct, well done Devin Passarella. You gain $100,000 COP.
+
+	# -- -- -- QUESTION #2 -- -- -- #
+
+	Host: Devin Passarella, Who painted the Mona Lisa?
+	 - Devin Passarella answers incorrectly.
+	Host: I'm afraid that is incorrect. Unfortunately, you lose all the money you've gained up to this point.
+	Host: And with that, Devin Passarella leaves with a total of $0 COP. Thanks for participating, and thank you for watching the show. See ya next time!
+[MONEY GIVEN OUT ON DAY 7]
+	Devin Passarella received $0 COP.
+	Lee Schuckers received $0 COP.
+	In total, the program gave $0 COP.
+
+### ----------------------------------------- ###
+
+[FINAL LOG:]
+	[PARTICIPANT'S STATUS:]
+		Sigrid Greisser, ID 577.873.083, age 24
+		Money: $2,000,000 COP - Took to answer last question: 20 seconds.
+		Last question answered: Question #3, in day 1. Which planet is closest to the Sun?
+
+		Georgeanne Buzzeo, ID 5.674.170.838, age 23
+		Money: $11,000,000 COP - Took to answer last question: 55 seconds.
+		Last question answered: Question #12, in day 2. What is the largest continent in the world?
+
+		Cherey Heitman, ID 1.750.984.139, age 37
+		Money: $11,000,000 COP - Took to answer last question: 28 seconds.
+		Last question answered: Question #7, in day 3. What is the process of a caterpillar turning into a butterfly called?
+
+		Dael Lowther, ID 4.480.465.059, age 28
+		Money: $0 COP - Took to answer last question: 21 seconds.
+		Last question answered: Question #4, in day 4. Who wrote the famous novel '1984'?
+
+		Eda Reins, ID 2.455.764.959, age 42
+		Money: $6,000,000 COP - Took to answer last question: 22 seconds.
+		Last question answered: Question #4, in day 5. Who discovered penicillin?
+
+		Lorain Kepner, ID 9.190.173.494, age 52
+		Money: $2,000,000 COP - Took to answer last question: 36 seconds.
+		Last question answered: Question #7, in day 6. Which city is known as the 'Big Apple'?
+
+		Devin Passarella, ID 5.334.585.721, age 31
+		Money: $0 COP - Took to answer last question: 20 seconds.
+		Last question answered: Question #2, in day 7. Who painted the Mona Lisa?
+
+		Damaris Ramer, ID 6.497.915.129, age 52
+		Money: $0 COP - Took to answer last question: 30 seconds.
+		Last question answered: Question #1, in day 1. 
+
+		Florida Iacovelli, ID 2.221.521.972, age 38
+		Money: $0 COP - Took to answer last question: 48 seconds.
+		Last question answered: Question #1, in day 1. 
+
+		Jayme Venne, ID 6.420.911.150, age 37
+		Money: $0 COP - Took to answer last question: 31 seconds.
+		Last question answered: Question #1, in day 1. 
+
+		Thomasa Beehler, ID 8.264.577.645, age 31
+		Money: $0 COP - Took to answer last question: 37 seconds.
+		Last question answered: Question #1, in day 1. 
+
+		Roz Schubert, ID 9.388.906.979, age 32
+		Money: $0 COP - Took to answer last question: 38 seconds.
+		Last question answered: Question #1, in day 1. 
+
+		Sindee Mandley, ID 2.887.880.184, age 52
+		Money: $0 COP - Took to answer last question: 45 seconds.
+		Last question answered: Question #1, in day 1. 
+
+		Lee Schuckers, ID 6.727.125.526, age 30
+		Money: $0 COP - Took to answer last question: 30 seconds.
+		Last question answered: Question #1, in day 1. 
+
+	[MONEY GIVEN OUT OVERALL:]
+		In total, the program gave out $32,000,000 COP.
