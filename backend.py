@@ -70,7 +70,7 @@ def finalLog():
     u.log("[FINAL LOG:]")
     u.log("\t[PARTICIPANT'S STATUS:]")
     for i in peopleThatPassed:
-        u.log(i.logstr("\t\t"))
+        u.log("\t\t"+str(i))
     u.log("\t[MONEY GIVEN OUT OVERALL:]")
     u.log("\t\tIn total, the program gave out " + ui.format(moneyGivenOut * 100000, "money") + ".")
 
@@ -81,9 +81,7 @@ def askQuestions(personPair):
     sets = [rng.randint(0,46), rng.randint(0,46)]
     moneyGiven = [0,0]
     hasLost = False
-    curcon = personPair[currentContestant]
 
-    curcon.wildcards = [0,1,2]
 
     def changeSafeguard():
         u.log(ui.dlg("Host",f"We've now passed a safeguard, you can now lose any question, and you'll still win {formattedMoney}."))
@@ -91,6 +89,9 @@ def askQuestions(personPair):
         currentSafeguard = prizes[questionsAsked]
 
     while questionsAsked < 14:
+        curcon = personPair[currentContestant]
+        curcon.wildcards = [0,1,2]
+
         u.log("\n")
         if currentContestant == 0:
             u.log(ui.foot("FIRST CONTESTANT'S TURN:"))
@@ -155,6 +156,8 @@ def askQuestions(personPair):
             moneyGiven[0] = curcon.money
             curcon.transferToBank()
             hasLost = False
+            currentContestant = 1
+            u.log(f'OH:{currentContestant}')
         else:
             u.log(ui.dlg("Host", f"And with that, {curcon.name} leaves with a total of {formattedMoney}. Thanks for participating, and thank you for watching the show. See ya next time!"))
             moneyGiven[1] = curcon.money
