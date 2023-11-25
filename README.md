@@ -12,3 +12,5 @@ QUIEN QUIERE SER MILLONARIO - Proyecto Final de Lenguajes de Programación de El
 
 ## Link al video de sustentación:
 No hay video de sustentación, pero la presentación que iba a leer está aqui como *Quien Quiere Ser Millonario - Documentación.pdf*.
+
+See pull requests for bugfixes.
